@@ -1,6 +1,4 @@
-# veo3Prompt
-GeminiPro
-import React, { useState, useEffect, useCallback } from 'react';
+# import React, { useState, useEffect, useCallback } from 'react';
 import { 
   Video, 
   Image as ImageIcon, 
